@@ -19,7 +19,6 @@ class RMCharacterViewController: UIViewController {
         title = "Characters"
     }
     
-
     /*
     // MARK: - Navigation
 
